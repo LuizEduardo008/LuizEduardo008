@@ -2,12 +2,12 @@
 
 IT Student and student of Data Analysis Ebac 
 
-Skills:
+My Skills:
 
-IT SKILLS -> 
+IT skills -> 
   POWER BI - PYTHON - SQL DEVELOPER - ORACLE DATABASE - PL/SQL - ADOBE PACKAGE OFFICE PACKAGE - HTML - CSS
 
-VIDEO AND AUDIO EDIT SKILLS -> VEGAS PRO - AUDACITY - APOWEREDIT 
+Video and Audio edit skills -> VEGAS PRO - AUDACITY - APOWEREDIT 
 
 
 <!--
